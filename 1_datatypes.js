@@ -23,6 +23,8 @@ if (num2 == num3) {
 
 //crear dos arrays con el mismo contenido y comparar con "==" si ambos arrays son iguales
 
+//ahora comparar el contenido de dichos arrays utilizando un bucle
+
 // crear un objeto "usuario", con tres propiedades
 const usuario = {
   propiedad1: "Alberto",
@@ -36,6 +38,9 @@ Math.round(gravedad, 10);
 console.log(gravedad);
 //incrementar una variable con otra variable con el operador  =+
 console.log((num1 = +num2));
+
+//incrementar una variable con otra variable o número con el operador  +=, mostrar por pantalla la primera variable (la incrementada)
+
 //eleva un número a otro utilizando **
 
 //eleva un número a otro utilizando un bucle
